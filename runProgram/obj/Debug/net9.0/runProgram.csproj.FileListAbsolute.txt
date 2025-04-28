@@ -1,0 +1,15 @@
+C:\Users\novia\C#\runProgram\obj\Debug\net9.0\runProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novia\C#\runProgram\obj\Debug\net9.0\runProgram.AssemblyInfoInputs.cache
+C:\Users\novia\C#\runProgram\obj\Debug\net9.0\runProgram.AssemblyInfo.cs
+C:\Users\novia\C#\runProgram\obj\Debug\net9.0\runProgram.csproj.CoreCompileInputs.cache
+C:\Users\novia\C#\runProgram\obj\Debug\net9.0\runProgram.sourcelink.json
+C:\Users\novia\C#\runProgram\bin\Debug\net9.0\runProgram.exe
+C:\Users\novia\C#\runProgram\bin\Debug\net9.0\runProgram.deps.json
+C:\Users\novia\C#\runProgram\bin\Debug\net9.0\runProgram.runtimeconfig.json
+C:\Users\novia\C#\runProgram\bin\Debug\net9.0\runProgram.dll
+C:\Users\novia\C#\runProgram\bin\Debug\net9.0\runProgram.pdb
+C:\Users\novia\C#\runProgram\obj\Debug\net9.0\runProgram.dll
+C:\Users\novia\C#\runProgram\obj\Debug\net9.0\refint\runProgram.dll
+C:\Users\novia\C#\runProgram\obj\Debug\net9.0\runProgram.pdb
+C:\Users\novia\C#\runProgram\obj\Debug\net9.0\runProgram.genruntimeconfig.cache
+C:\Users\novia\C#\runProgram\obj\Debug\net9.0\ref\runProgram.dll
